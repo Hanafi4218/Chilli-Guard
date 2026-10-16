@@ -1,0 +1,31 @@
+{
+  "smartWatering": {
+    "control": {
+      "manualWatering": "0"
+    },
+    "history": {
+      "20260712_163702": {
+        "date": "12-07-2026",
+        "light": 13,
+        "mode": "AUTO",
+        "moisture": 0,
+        "motor": "Watered",
+        "time": "16-37-03"
+      },
+      "No_Time": {
+        "light": 100,
+        "mode": "AUTO",
+        "moisture": 0,
+        "motor": "Watered",
+        "time": "2026-07-11 20:01:30"
+      }
+    },
+    "latest": {
+      "date": "12-07-2026",
+      "light": 36,
+      "moisture": 29,
+      "motor": "OFF",
+      "time": "21-46-41"
+    }
+  }
+}
